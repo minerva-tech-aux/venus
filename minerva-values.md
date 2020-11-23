@@ -84,7 +84,8 @@ endeavors. Aim high and take risks, failure be damned.
 - Peter Crysdale 1/15/20 All in!
 - Morgan Brown 2/3/20
 - Davin Chew 11/18/20
-- Your Name Here!! MM/DD/YY
+- Theon Freeman 11/23/20 
+Your Name Here!! MM/DD/YY
 
 ---
 <sup>v0.0.1</sup>
